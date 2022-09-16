@@ -6,5 +6,6 @@ public class App {
         //System.out.println(c.getSpeed());
         c.getSound();
         s.getSound();
+        s.getWheels();
     }
 }
