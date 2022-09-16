@@ -5,7 +5,7 @@ public class Car {
         this.carname = carname;
         this.speed = speed;
     }
-    public static void getSound() {
+    public void getSound() {
 		System.out.println("vroom");
 	}
   public String getCarname() {
